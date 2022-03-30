@@ -3,7 +3,9 @@ layout: cv
 title: Ian Ashby's Resume
 ---
 # Ian Ashby
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Computer Science student at Brigham Young University of Idaho.
+
+Currently seeking related internships.
 
 <div id="webaddress">
 <a href="ianashby@byui.edu">ianashby@byui.edu</a>
@@ -39,31 +41,20 @@ __Coates Landscape Supply__, Rexburg, ID
 -	Simplified and integrated systems to alleviate confusion between departments.
 -	Oversaw the renovation and reorganization of the department allowing the workplace to look more appealing, function more efficiently, and conserve valuable space for parts.
 
-### Data Science Consulting Team
+### Owner & Photographer
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`2017 - Current`
+__Ian Ashby Photography__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+-	Organized photo sessions including the logistics and equipment necessary to execute a successful photoshoot.
+-	Utilized social media and word-of-mouth networking to advertise services and bring in clients.
+-	Established a recognizable and professional style that attracted a diverse array of over 50 clients.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2021`
+__Philosophy TA__, BYU Idaho
 
 
 
