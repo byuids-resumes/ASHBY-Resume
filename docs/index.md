@@ -27,7 +27,7 @@ __BS of Computer Science__, GPA: 3.99
 
 
 
-## Related Experience
+## Work Experience
 
 ### Wholesale Parts Manager
 
@@ -51,7 +51,7 @@ __Ian Ashby Photography__
 -	Established a recognizable and professional style that attracted a diverse array of over 50 clients.
 
 
-## Service and Work History
+## Additional Experience
 
 `2021`
 __Philosophy TA__, BYU Idaho
