@@ -49,7 +49,7 @@ __Ian Ashby Photography__
 -	Organized photo sessions including the logistics and equipment necessary to execute a successful photoshoot.
 -	Utilized social media and word-of-mouth networking to advertise services and bring in clients.
 -	Established a recognizable and professional style that attracted a diverse array of over 50 clients.
-
+- Managed file sharing with clients to maintain quality and resolution of photographs.
 
 ## Additional Experience
 
